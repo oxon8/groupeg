@@ -1,0 +1,25 @@
+[zh]
+languageCode = "zh"
+title = "未来金融科技实验室--山河大学校级研究中心"
+staticDir = [ "static" ]
+
+  [zh.params]
+  description = "金融科技产品与服务体系的创新"
+
+[zh-hant]
+languageCode = "zh-hant"
+languageName = "中文 (繁體)"
+title = "未來金融科技實驗室--山河大學校級研究中心"
+staticDir = [ "static" ]
+
+  [zh-hant.params]
+  description = "金融科技產品與服務體系的创新"
+
+[en]
+languageCode = "en-us"
+languageName = "English"
+title = "Oxford Roadmapping  (Oxon8)"
+staticDir = [ "static" ]
+
+  [en.params]
+  description = "Innovate with Designs of Smart Platforms and Green FinTech, on a mission to reduce gigatones of GHG emissions by transforming how carbon neutrality information flows change business operations and supply chains"
