@@ -5,6 +5,8 @@
 [![Screenshot](./preview0.0.1.png)](https://github.com/oxon8/groupeg/compare/v0.0.0...oxon8:groupeg:v0.0.1?diff=split)
 2.  多语菜单
  [![Screenshot](./preview0.0.2.png)](https://github.com/oxon8/groupeg/compare/v0.0.1...oxon8:groupeg:v0.0.2?diff=split)
+3.  客制化主页图片及icon
+ [![Screenshot](./preview0.0.3.png)](https://github.com/oxon8/groupeg/compare/v0.0.2...oxon8:groupeg:v0.0.3?diff=split)
 
 -----
 
