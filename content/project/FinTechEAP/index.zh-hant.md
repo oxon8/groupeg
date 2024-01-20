@@ -6,7 +6,7 @@ event_url: https://example.org
 
 location: 澳恪森－灣區設計開放大學
 address:
-  溫泉東路 75-2
+  street: 溫泉東路 75-2
   city: 廣州
   region: 廣東
   postcode: '510970'

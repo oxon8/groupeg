@@ -6,7 +6,7 @@ event_url: https://example.org
 
 location: Oxford Roadmapping
 address:
-  Wenquan E. Rd 75-2
+  street: Wenquan E. Rd 75-2
   city: Guangzhou
   region: Guangdong
   postcode: '510970'
