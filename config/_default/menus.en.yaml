@@ -14,7 +14,7 @@ main:
     url: people
     weight: 30
   - name: Projects☑
-    url: event
+    url: project
     weight: 40
   - name: Publications🎯
     url: publication
