@@ -6,24 +6,23 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night:
-  font: native
-  font_size: L
+  theme_day: Forest
+  theme_night: Dark
+  font: native_noto
+  font_size: m
 
 # SEO
 
 marketing:
   seo:
     site_type: Organization
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    local_business_type: '高新技术; 科技服务; 数智平台; 互联网生态; 生态互联网'
+    org_name: '澳恪森数智科技服务 Oxford Roadmapping'
+    description: '创新数智平台与绿色金融科技的设计  Innovate with Designs of Smart Platforms and Green FinTech, on a mission to reduce gigatones of GHG emissions by transforming how carbon neutrality information flows change business operations and supply chains '
+    twitter: 'oxoneight'
   analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-    google_tag_manager: ''
+    google_analytics: 'MLZPNJXKHN'
+    baidu_tongji: '41eb279f42ca292a4eacc18b2d4f86d5'
     microsoft_clarity: ''
   verification:
     google: ''
@@ -34,18 +33,19 @@ marketing:
 header:
   navbar:
     enable: true
+    # Align menu links: left (l), center (c), or right (r)
     align: r
     show_logo: true
-    show_language: false
+    show_language: true
     show_day_night: true
     show_search: true
-    highlight_active_link: false
+    highlight_active_link: true
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Oxford Roadmapping 澳恪森数智 {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -72,7 +72,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/oxon8/theme-research-group/'
     content_dir: content
     branch: main
   avatar:
