@@ -1,8 +1,10 @@
 # 客制化
 
 ## 客制化流程系列截屏
-1. [![Screenshot](./preview0.0.1.png)](https://github.com/oxon8/groupeg/compare/v0.0.0...oxon8:groupeg:v0.0.1?diff=split)
-
+1.  基本設置起步
+[![Screenshot](./preview0.0.1.png)](https://github.com/oxon8/groupeg/compare/v0.0.0...oxon8:groupeg:v0.0.1?diff=split)
+2.  多语菜单
+ [![Screenshot](./preview0.0.2.png)](https://github.com/oxon8/groupeg/compare/v0.0.1...oxon8:groupeg:v0.0.2?diff=split)
 
 -----
 
