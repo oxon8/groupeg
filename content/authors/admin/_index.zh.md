@@ -1,37 +1,37 @@
 ---
 # Display name
-title: Professor Jin Qiu
+title: 鉴湖女侠教授
 
 # Full Name (for SEO)
-first_name: Jin
-last_name: Qiu
+first_name: 鉴湖
+last_name: 女侠
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Financial Technology
+role: 金融科技教授
 
 # Organizations/Affiliations
 organizations:
-  - name: Shanhe University
+  - name: 山河大学
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include FinTech, supply chain finance platforms and revolutionary use of FinTech for international development.
+bio: 我的研究兴趣包括金融科技、供应链金融平台以及金融科技在国际发展中的革命性应用。
 
 interests:
-  - ICT for Development
-  - Artificial Intelligence
-  - AI alignment
+  - 信息通讯技术促进国际发展
+  - 人工智能
+  - AI对齐
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Jissen Women's University
+    - course: 人工智能博士
+      institution: 实践女子大学
       year: 1903
-    - course: BSc in Mathematics
-      institution: Institute of Analytical Engine
+    - course: 数学理学士
+      institution: 分析引擎研究所
       year: 1809
 
 # Social/Academic Networking
@@ -69,6 +69,6 @@ user_groups:
   - Researchers
 ---
 
-Ms. Jin Qiu Nelson Bighetti is a professor of Financial Technology at the Shanhe University Future FinTech Lab. Her research interests include FinTech, supply chain finance platforms and revolutionary use of FinTech for international development.
+鉴湖女侠女士是山河大学未來金融科技實驗室教授，研究兴趣包括金融科技、供应链金融平台以及金融科技在国际发展中的革命性应用。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+AI对齐Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
