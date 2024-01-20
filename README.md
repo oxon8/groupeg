@@ -13,6 +13,8 @@
  [![Screenshot](./preview0.0.4.png)](https://github.com/oxon8/groupeg/compare/v0.0.3...oxon8:groupeg:v0.0.4?diff=split)
 5.  多语消息posts次汇整页
  [![Screenshot](./preview0.0.5.png)](https://github.com/oxon8/groupeg/compare/v0.0.4...oxon8:groupeg:v0.0.5?diff=split)
+6.  多语项目project次汇整页及项目分页
+ [![Screenshot](./preview0.0.5.png)](https://github.com/oxon8/groupeg/compare/v0.0.5...oxon8:groupeg:v0.0.6?diff=split)
 
 
 -----
