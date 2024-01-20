@@ -17,12 +17,12 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: '高新技术; 科技服务; 数智平台; 互联网生态; 生态互联网'
-    org_name: '澳恪森数智科技服务 Oxford Roadmapping'
-    description: '创新数智平台与绿色金融科技的设计  Innovate with Designs of Smart Platforms and Green FinTech, on a mission to reduce gigatones of GHG emissions by transforming how carbon neutrality information flows change business operations and supply chains '
-    twitter: 'oxoneight'
+    org_name: '[例] 💰💵🖧未来金融科技实验室 Future Fin-Tech Lab [研究组、教研室、研究室、实验室或科研组织]'
+    description: '创新未来金融科技的标准及设计'
+    twitter: ''
   analytics:
-    google_analytics: 'MLZPNJXKHN'
-    baidu_tongji: '41eb279f42ca292a4eacc18b2d4f86d5'
+    google_analytics: ''
+    baidu_tongji: ''
     microsoft_clarity: ''
   verification:
     google: ''
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Oxford Roadmapping 澳恪森数智 {license}'
+    notice: '© {year} Oxford Roadmapping 澳恪森数智可代客／培训 {license}，基于https://docs.hugoblox.com代码'
     license:
       enable: true
       allow_derivatives: false
@@ -72,7 +72,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/oxon8/group/'
+    url: 'https://github.com/oxon8/groupeg/'
     content_dir: content
     branch: main
   avatar:
