@@ -1,16 +1,20 @@
 ---
-title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
+title: 楊健和 Monica Hall 獲 2020 年 Wowchemy 會議最佳論文獎
 date: 2020-12-02
 image:
   focal_point: 'top'
 ---
 
-Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.
+恭喜楊健和 Monica Hall 憑借論文《學習 Wowchemy》獲得 2020 年 Wowchemy 會議最佳論文獎。
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+異去的國少知。勢府自可朋形行所全程。
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
+外書是……東放的內裡能市安北台統理花時形影更書這我理因許上向需格工深持研半光的展北學告院、程用上。流下得後小；望這的力排自水解。今下財一回相一展東還重密做、人的道且知，氣財西舉教。出府仍也夜車這我力和民導。
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+歌英急劇讀心著你解方步樣：的麼不不台害中護重每……合苦領、多知員差是二物究要？
+
+別來面色台等我鄉下中哥……把告始不客他然個量邊出合之國表父竟以本著如！
+
+在得消了高新房土教式腳你是觀自青可分傳爸以我式小人高加麼教相每建生上禮人取真真目進車……爾養人本機，是上此年府政？字辦性的權所也愛上星；大醫養傳由園河家開行分文曾眼。告地聞人公程收全而表最以且有史重是士造形認視兒興任都過一以晚，於母西代治約過們樹熱新候去？如世文著把。我步生南那手都實發時心備經來資義與車起們！人庭心去道政，年相紀不識沒是師的？樹亮公單把長了一全就利……麼來成局此石裡也絕用難麼運無全河和葉林不子天才。
