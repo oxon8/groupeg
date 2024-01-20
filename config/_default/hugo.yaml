@@ -3,23 +3,50 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Wowchemy Research Group # Website name
-baseURL: 'https://example.com/' # Website URL
+title: 未来金融科技实验室💰💵🖧 Future Fin-Tech Lab  # 网站名 Website name
+baseURL: 'https://oxon8.github.io/groupeg/' # 网站URL Website URL-- 可免費架至netlify.app github.io等, 或自架域名网站
+canonifyURLs: 'false' # by default, all relative URLs encountered in the input are left unmodified
+
 
 ############################
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
-hasCJKLanguage: false
+defaultContentLanguage: zh # 改中文zh为预设语言
 defaultContentLanguageInSubdir: false
+languages:
+  zh:
+    disabled: false
+    languageCode: zh
+    languageName: 中文 (簡体)
+    languageDirection: ltr
+    title: 未来金融科技实验室 # 网站名 中文
+    weight: 1
+  en:
+    disabled: false
+    languageCode: en-US
+    languageName: English
+    languageDirection: ltr
+    title: Future Fin-Tech Lab # 网站名 英文
+    weight: 2
+  zh-hant:
+    disabled: false
+    languageCode: zh-hant
+    languageName: 中文 (正體)
+    languageDirection: ltr
+    title: 未來金融科技實驗室  # 网站名 中文繁體
+    disabled: false
+    weight: 3
+hasCJKLanguage: true
 removePathAccents: true
+
+##    - path: github.com/hugomods/bootstrap
 
 ############################
 ## ADVANCED
 ############################
 
-enableGitInfo: false
+enableGitInfo: true  # 启动GitInfo
 summaryLength: 30
 paginate: 10
 enableEmoji: true
@@ -47,6 +74,26 @@ taxonomies:
   author: authors
 markup:
   _merge: deep
+  defaultMarkdownHandler: goldmark # 启动goldmark处理markdown进阶选项
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute:
+        block: true
+        title: true
+      autoHeadingID: true
+      autoHeadingIDType: github
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xhtml: true 
 related:
   threshold: 80
   includeNewer: true
