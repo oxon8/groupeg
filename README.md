@@ -1,3 +1,11 @@
+# 客制化
+
+## 客制化流程系列截屏
+1. [![Screenshot](./preview0.0.1.png)](https://github.com/oxon8/groupeg/compare/v0.0.0...oxon8:groupeg:v0.0.1?diff=split)
+
+
+-----
+
 # [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
 
 [![Screenshot](./preview.png)](https://hugoblox.com/hugo-themes/)
