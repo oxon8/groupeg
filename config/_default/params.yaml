@@ -72,7 +72,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/oxon8/theme-research-group/'
+    url: 'https://github.com/oxon8/group/'
     content_dir: content
     branch: main
   avatar:
