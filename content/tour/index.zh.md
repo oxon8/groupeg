@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 👋 欢迎来访实验室官网
+        content: 瞭解一下我们最近情况
         align: center
         background:
           image:
@@ -18,8 +18,8 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: 分享新知 ☕️
+        content: '和我们实验分享并讨索新主题！'
         align: left
         background:
           image:
@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: 省级一流金融科技实验室
+        content: '2024年新启用！'
         align: right
         background:
           image:
@@ -48,7 +48,7 @@ sections:
       slide_height: ''
       is_fullscreen: true
       # Automatically transition through slides?
-      loop: false
+      loop: true
       # Duration of transition between slides (in ms)
-      interval: 2000
+      interval: 3000
 ---
