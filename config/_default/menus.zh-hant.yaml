@@ -19,6 +19,9 @@ main:
   - name: 成果🎯
     url: publication
     weight: 50
-  - name: 連絡📪
+  - name: 課程🎓
     url: contact
     weight: 60
+  - name: 連絡📪
+    url: contact
+    weight: 70
