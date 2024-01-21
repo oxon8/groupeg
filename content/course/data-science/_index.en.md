@@ -1,11 +1,13 @@
 ---
-title: 📊 Learn Data Science
-linkTitle: Data Science
+title: 📊 Learn Data Science (Business Intelligence)
+linkTitle: Data Science (BI)
 summary: An example of using Hugo Blox Builder's Book layout for publishing online courses.
-date: '2021-01-24'
+date: 2021-01-24
 type: book
 tags:
-  - current
+  - LearningRoadmap
+  - BusinessIntelligence
+weight: 200
 ---
 
 {{< figure src="featured.jpg" >}}

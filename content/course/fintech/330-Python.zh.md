@@ -1,21 +1,24 @@
 ---
-title: Python basics
-date: '2021-01-01'
+title: 330-Python (亦可220提前)
+date: 2024-01-20
 type: book
-weight: 20
+weight: 330
+tags:
+  - Python
+  - 智能应用开发
 ---
 
-Build a foundation in Python.
+直面代码，对标金融科技应用开发，学习Python编程基础，并以实际项目（PBL学习）展示编程能解决问题流程中的部分环节。
 
 <!--more-->
 
-{{< icon name="clock" pack="fas" >}} 1-2 hours per week, for 8 weeks
+{{< icon name="clock" pack="fas" >}} 每周1-2小時，共 8 周
 
-## Learn
+## 学习
 
 {{< youtube rfscVS0vtbw >}}
 
-## Quiz
+## 测验
 
 {{< spoiler text="What is the difference between lists and tuples?" >}}
 Lists

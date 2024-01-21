@@ -1,14 +1,17 @@
 ---
-title: Visualization
-date: '2021-01-01'
+title: 400-Self Curation and Community of Practice
+date: 2023-12-01
 type: book
-weight: 30
+weight: 400
 highlight: true
 tags:
-  - Data Visualization
+  - DataStoryTelling
+  - ProjectManagement
+  - StakeholderAnalysis
+  - CoP
 ---
 
-Learn how to visualize data with Plotly.
+Learn how to curate oneself on an online platform of a chosen Community of Practice (CoP), practicing Project Management, Data Story-Telling, and Stakeholder Analysis skills.
 
 <!--more-->
 
