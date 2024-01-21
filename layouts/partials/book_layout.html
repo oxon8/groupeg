@@ -1,4 +1,5 @@
-{{ $current_page := . }}
+{{ $page := . }}
+{{ $featured := partial "blox-core/functions/get_featured_image.html" $page }}
 
 {{/* Check whether to show breadcrumb navigation. */}}
 {{ $show_breadcrumb := .Params.show_breadcrumb }}
@@ -24,26 +25,61 @@
     </div>
     {{ end }}
 
-    <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role="main">
+  <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role="main">
 
-      <div class="docs-article-container">
+  <div class="docs-article-container">
         {{ if $show_breadcrumb }}
-          {{ partial "components/breadcrumb" $current_page }}
+          {{ partial "components/breadcrumb" $page }}
         {{ end }}
-      </div>
+  </div>
 
-      {{/* Cover image */}}
-      {{ $cover_image := partial "blox-core/functions/get_featured_image.html" . }}
-      {{ if $cover_image }}
-      <div class="article-header">
-        {{ $alt := (.Params.image.caption | default "") | plainify }}
-        {{ $cover_image = $cover_image.Fit "1800x310 webp" }}
-        <img src="{{$cover_image.RelPermalink}}" width="{{$cover_image.Width}}" height="{{$cover_image.Height}}" class="article-banner" alt="{{$alt}}">
-        {{ with (.Params.image.alt_text | default .Params.image.caption) }}
-          <span class="article-header-caption">{{ . | markdownify | emojify }}</span>
-        {{ end }}
-      </div>
-      {{end}}
+{{/* Banner image */}}
+{{ if and .Params.banner.image (not (and $featured (not .Params.image.preview_only))) }}
+
+<div class="article-header">
+  {{- $img := "" -}}
+  {{ $alt := (.Params.banner.caption | default "") | plainify }}
+  {{ $destination := .Params.banner.image }}
+  {{ $is_remote := strings.HasPrefix $destination "http" }}
+  {{- if not $is_remote -}}
+    {{- $img = (.Page.Resources.ByType "image").GetMatch $destination -}}
+    {{- if not $img -}}
+      {{- $img = resources.Get (path.Join "media" $destination) -}}
+    {{- end -}}
+  {{- end -}}
+  {{ if $img }}
+    <img src="{{$img.RelPermalink}}" width="{{$img.Width}}" height="{{$img.Height}}" class="article-banner" alt="{{$alt}}">
+  {{ else }}
+    <img src="{{ .Params.banner.image }}" class="article-banner" alt="{{$alt}}">
+  {{ end }}
+
+  {{ with .Params.banner.caption }}<span class="article-header-caption">{{ . | markdownify | emojify }}</span>{{ end }}
+</div>
+
+{{/* Featured image layout */}}
+{{ if and $featured (not .Params.image.preview_only) }}
+
+{{/* Fit image within max size. */}}
+{{ $image := $featured }}
+
+{{/* Determine image placement. */}}
+{{ $placement := .Params.image.placement | default 1 }}{{/* Default to full column width. */}}
+{{/* Fit image to container's max width */}}
+{{ $image_container := "" }}
+{{ if eq $placement 2}}
+  {{ $image_container = "container" }}
+  {{ $image = $featured.Fit "1200x2500" }}
+{{else if eq $placement 3}}
+  {{ $image_container = "container-fluid" }}
+  {{ $image := $featured.Fit "2560x2560" }}
+{{else}}
+  {{ $image_container = "article-container" }}
+  {{ $image = $featured.Fit "720x2500" }}
+{{end}}
+{{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
+
+{{end}}
+{{end}}
 
       <div class="docs-article-container">
         {{/* Fallback to filename as title (useful for default Obsidian note structure) */}}
