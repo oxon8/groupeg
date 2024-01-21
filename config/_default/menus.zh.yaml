@@ -20,7 +20,7 @@ main:
     url: publication
     weight: 50
   - name: 课程🎓
-    url: contact
+    url: course
     weight: 60
   - name: 连络📪
     url: contact

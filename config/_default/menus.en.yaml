@@ -19,9 +19,9 @@ main:
   - name: Publications🎯
     url: publication
     weight: 50
-- name: Course🎓
-    url: contact
+  - name: Course🎓
+    url: course
     weight: 60
-- name: Contact📪
+  - name: Contact📪
     url: contact
     weight: 70
