@@ -1,7 +1,7 @@
 # 客制化
 
 ## 客制化流程系列截屏
-0.  厡始
+0.  原始
 [![Screenshot](./preview.png)](https://hugoblox.com/hugo-themes/)
 1.  基本設置起步
 [![Screenshot](./preview0.0.1.png)](https://github.com/oxon8/groupeg/compare/v0.0.0...oxon8:groupeg:v0.0.1?diff=split)
@@ -14,9 +14,11 @@
 5.  多语消息posts次汇整页
  [![Screenshot](./preview0.0.5.png)](https://github.com/oxon8/groupeg/compare/v0.0.4...oxon8:groupeg:v0.0.5?diff=split)
 6.  多语项目project次汇整页及项目分页
- [![Screenshot](./preview0.0.5.png)](https://github.com/oxon8/groupeg/compare/v0.0.5...oxon8:groupeg:v0.0.6?diff=split)
+ [![Screenshot](./preview0.0.6.png)](https://github.com/oxon8/groupeg/compare/v0.0.5...oxon8:groupeg:v0.0.6?diff=split)
 7.  多语项目authors建构主要作者、管理员
- [![Screenshot](./preview0.0.5.png)](https://github.com/oxon8/groupeg/compare/v0.0.6...oxon8:groupeg:v0.0.7?diff=split)
+ [![Screenshot](./preview0.0.7.png)](https://github.com/oxon8/groupeg/compare/v0.0.6...oxon8:groupeg:v0.0.7?diff=split)
+8.  多语成果publications建立
+ [![Screenshot](./preview0.0.8.png)](https://github.com/oxon8/groupeg/compare/v0.0.7...oxon8:groupeg:v0.0.8?diff=split)
 
 
 -----
