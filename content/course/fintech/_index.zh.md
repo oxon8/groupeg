@@ -1,11 +1,12 @@
 ---
-title: 🤖 Learn Robotics
-linkTitle: Learn Robotics
-summary: An example of using Hugo Blox Builder's Book layout for publishing online courses.
-date: '2021-01-24'
+title: 🤖 FinTech 学习地图
+linkTitle: FinTech 学习地图
+summary: 金融科技学习地图FinTech Roadmap系统地勾勒出学习层次、路径、及资源.
+date: '2024-01-20'
 type: book
 tags:
-  - previous
+  - 学习地图
+  - FinTech
 ---
 
 {{< figure src="featured.jpg" >}}
