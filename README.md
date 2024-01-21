@@ -19,6 +19,8 @@
  [![Screenshot](./preview0.0.7.png)](https://github.com/oxon8/groupeg/compare/v0.0.6...oxon8:groupeg:v0.0.7?diff=split)
 8.  多语成果publications建立
  [![Screenshot](./preview0.0.8.png)](https://github.com/oxon8/groupeg/compare/v0.0.7...oxon8:groupeg:v0.0.8?diff=split)
+9.  多语导览tour建立并启动转场效果
+ [![Screenshot](./preview0.0.9.png)](https://github.com/oxon8/groupeg/compare/v0.0.8...oxon8:groupeg:v0.0.9?diff=split)
 
 
 -----
