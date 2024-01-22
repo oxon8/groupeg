@@ -4,6 +4,10 @@ linkTitle: 数据科学（BI商业智能）学习地图
 summary: BI商业智能学习地图 系统地勾勒出学习层次、路径、及资源。
 date: 2024-01-20
 type: book
+image:
+  preview_only: true
+banner:
+  image: false
 tags:
   - 学习地图
   - 数据科学

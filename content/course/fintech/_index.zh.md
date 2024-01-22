@@ -5,7 +5,6 @@ summary: 金融科技FinTech 学习地图 系统地勾勒出学习层次、路�
 date: 2024-01-20
 type: book
 weight: 100
-featured: false
 image:
   preview_only: true
 banner:
